@@ -1,1 +1,1 @@
-# Capgemini-Course-Java
+# Studies-Course-Java
